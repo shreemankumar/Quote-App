@@ -42,7 +42,7 @@ This is a modern Android application built with **Jetpack Compose**, designed to
 
 | Splash Screen | Onboarding | Home Screen |
 |---------------|------------|-------------|
-| ![Splash](assets/splash.png) | ![Register](assets/register.png) | ![Home](assets/home.png) |
+| ![Splash](splash.png) | ![Register](assets/register.png) | ![Home](assets/home.png) |
 
 ---
 
