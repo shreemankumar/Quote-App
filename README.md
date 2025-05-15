@@ -60,3 +60,46 @@ This is a modern Android application built with **Jetpack Compose**, designed to
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+Run the App
+Open in Android Studio.
+
+Sync Gradle.
+
+Run on an emulator or device.
+
+🗃 Folder Structure
+
+├── MainActivity.kt
+├── ui/
+│   ├── RegisterPageUI.kt
+│   ├── HomePage.kt
+│   └── components/
+├── datastore/
+│   └── DataStoreManager.kt
+├── theme/
+│   ├── Color.kt
+│   ├── Theme.kt
+│   └── ...
+└── assets/
+    └── Images and icons
+✨ Contributing
+Contributions are welcome! Feel free to open issues and submit pull requests.
+
+📄 License
+This project is licensed under the MIT License.
+
+🙋‍♂️ Acknowledgements
+Jetpack Compose
+Coil
+Google Material Design
+
+---
+
+### ✅ What You Should Customize
+
+- Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.
+- Add screenshots (`splash.png`, `register.png`, `home.png`) in a folder named `assets/` or remove the screenshot section.
+- Add a real `LICENSE` file (MIT or Apache 2.0 is common).
+- Add your name or team in the contributors or acknowledgments section if you'd like.
+
+
