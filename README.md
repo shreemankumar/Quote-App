@@ -1,4 +1,4 @@
-# 🌟 Jetpack Compose User Onboarding App
+# 🌟 Jetpack Compose User Quotes App
 
 This is a modern Android application built with **Jetpack Compose**, designed to demonstrate user onboarding with persistent login state using **Jetpack DataStore**, animations, and rich UI components.
 
